@@ -2420,10 +2420,10 @@ animated-value@^0.2.4:
   dependencies:
     bezier-easing "^2.1.0"
 
-animejs@^3.2.2:
-  version "3.2.2"
-  resolved "https://registry.npmjs.org/animejs/-/animejs-3.2.2.tgz"
-  integrity sha512-Ao95qWLpDPXXM+WrmwcKbl6uNlC5tjnowlaRYtuVDHHoygjtIPfDUoK9NthrlZsQSKjZXlmji2TrBUAVbiH0LQ==
+animejs@^4.4.1:
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/animejs/-/animejs-4.4.1.tgz#72339e06524ac809a4045351941a6972551a3c52"
+  integrity sha512-XimhJw4vPb6tAd6Zaoa6BaspJ8UteQMKvL7Pvrt6MW/6u2UvJs0TB/LLqR1sigaiYvpVPC3Tokr9emcCMhWFhw==
 
 anser@1.4.9:
   version "1.4.9"
